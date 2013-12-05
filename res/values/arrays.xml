@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="h1145">
+        <item>1145년</item>
+        <item>삼국사기</item>
+        <item>우산국은 울릉도와 우산(독도)을 지배한 왕국이었다. 신라 지증왕 13년(512년) 이사부 장군이 우산국을 신라에 복속시킨 사실이 기록되어 있다.</item>
+        <item>h1145</item>
+        
+    </string-array>
+    <string-array name="h1454">
+        <item>1454년</item>
+        <item>세종실록지리지</item>
+        <item>우산(于山)과 무릉(武陵)의 두 섬이 울진현의 정동쪽 바다 가운데에 있다. 두섬이 서로 거리가 멀지 아니하여 날씨가 맑으면 바라볼 수가 있다. 삼국 시대에는 우산국이라 불렀다.</item>
+        <item>h1454</item>
+    </string-array>
+    <string-array name="h1531">
+        <item>1531년</item>
+        <item>신증동국여지승람</item>
+        <item>강원도 울진현조에 울릉도와 우산도에 관한 설명이 상세히 나타나 있어 두 섬이 우리의 영토임을 분명히 밝히고 있다.</item>
+        <item>h1531</item>
+    </string-array>
+    <string-array name="h1667">
+        <item>1667년</item>
+        <item>은주시청합기</item>
+        <item>이 책은 일본의 기록 가운데에서 울릉도와 독도에 관해 최초로 기록한 책자이며 1667년 일본의 관리가 오키섬을 돌아보며 관찰한 것을 기록한 책이다. 이 책에는‘일본의 북쪽 경계는 오키섬을 한계로 한다’라고 기록되어있다. 이는 독도가 일본 땅이 아님을 인정한 것이다.</item>
+        <item>h1667</item>
+    </string-array>
+    <string-array name="h1696">
+        <item>1696년</item>
+        <item>안용복 관련 조사보고서</item>
+        <item>안용복의 2차 일본 방문시 활동상황을 기록한 일본 문서로 죽도(울릉도), 송도(독도)가 강원도에 속한 조선의 영토임을 기록하고 있다.</item>
+        <item>h1696</item>
+    </string-array>
+    <string-array name="h1808">
+        <item>1808년</item>
+        <item>만기요람</item>
+        <item>‘울릉도와 우산도가 모두 우산국의 땅’이라고 기록되어 있어, 두 섬이 우리의 영토임을 분명히 밝히고 있다.</item>
+        <item>h1808</item>
+    </string-array>
+    <string-array name="h1870">
+        <item>1870년</item>
+        <item>조선국교제시말내탐서</item>
+        <item>1869년 메이지 정부는 외무성 관리들을 조선에 파견하여 울릉도(죽도)와 독도(송도)가 조선에 속해 있는지 조사하도록 지시하였다. 이는 당시 일본이 울릉도와 독도를 조선 영토로 인식하고 있었다는 증거이며, ‘울릉도와 독도가 조선 부속으로 되어 있는 시말’이라는 보고서를 작성하여 독도가 한국 땅임을 인정하였다.</item>
+        <item>h1870</item>
+    </string-array>
+    <string-array name="h1877">
+        <item>1877년</item>
+        <item>태정관이 일본 내무성에 내려보낸 공문서</item>
+        <item>1877년 일본 내무성은 당시 일본 최고 행정기관인 태정관에 울릉도와 독도가 일본 영토인지 문의하였는데, 이에 대해 태정관은 조사 결과 울릉도와 독도는 일본과는 관계 없는 곳이라고 최종적으로 결정하였다.</item>
+        <item>h1877</item>
+    </string-array>
+
+</resources>

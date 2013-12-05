@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dokdo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="act1_history">독도 역사</string>
+    <string name="act2_world">독도 FAQ</string>
+    <string name="act3_matching_card">독도 카드 게임</string>
+    <string name="act4_quiz">독도 퀴즈</string>
+    <string name="act5_nature">독도 환경</string>
+    <string name="act0_mypage">내 학습 정보</string>
+    
+    
+    <string name="act1_history_description">과거 우리 독도의 모습과 사료에 나타난 독도를 살펴 봅니다.</string>
+    <string name="act2_world_description">다른 나라에서 바라보는 우리 독도의 모습을 살펴 봅니다.</string>
+    <string name="act3_matching_card_description">독도와 관련된 그림으로 구성된 카드 짝 맞추기 활동을 합니다.</string>
+    <string name="act4_quiz_description">객관식 및 OX 퀴즈를 통하여 학습한 내용을 확인해 봅니다.</string>
+    <string name="act5_nature_description">독도의 지리적 위치 및 생태계를 살펴 봅니다.</string>
+    <string name="act0_mypage_description">나의 학습 기록을 살펴 봅니다.</string>
+    
+    
+
+    
+    
+
+</resources>
